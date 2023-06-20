@@ -1,1 +1,1 @@
-from Disease_Reognition import main
+from Disease_Recognition import main
